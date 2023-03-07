@@ -1,6 +1,7 @@
 {
   "name": "code-editor-lite",
   "version": "0.1.0",
+  "homepage": "http://softleollc.github.io/code-editor-lite",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
